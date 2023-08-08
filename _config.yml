@@ -1,1 +1,12 @@
+title: 「Pythonによる計算物理」サポートページ
+author:
+  name: Junya Otsuki
+
+description: >
+  「Pythonによる計算物理」大槻純也 著（森北出版）のサポートページです。
+
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
