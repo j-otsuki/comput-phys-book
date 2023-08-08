@@ -1,0 +1,14 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+.page-content h2 {
+  background-color: #d0ffff;
+}
+
+.page-content h3 {
+  background-color: #e0ffff;
+}
