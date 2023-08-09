@@ -2,8 +2,12 @@
 layout: home
 ---
 
-このページは、書籍「**Pythonによる計算物理**」大槻純也 著（森北出版）のサポートページです。本に掲載されているコードのダウンロードや、更新情報をアップロードしていきます。
+このページは、書籍「**Pythonによる計算物理**」大槻純也 著（森北出版）のサポートページです。本に掲載されているソースコードや更新情報を提供します。
 出版社のページは[こちら](https://www.morikita.co.jp/books/mid/017081)。
+
+<!-- ![表紙](9784627170810.jpg) -->
+<img src="9784627170810.jpg" width=300px>
+
 
 * TOC
 {:toc}
@@ -34,47 +38,47 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | -----   | ---------- | --- |
 | **第2章 古典力学** |
 | 2.3節 | logistic_euler.py| |
-| - | logistic_euler_mod.py |    |
-| - | logistic_runge_kutta.py |    |
-| - | logistic_solve_ivp.py |    |
+| | logistic_euler_mod.py |    |
+| | logistic_runge_kutta.py |    |
+| | logistic_solve_ivp.py |    |
 | 2.4節 | newton.py |    |
-| - | newton_angles.py |    |
+| | newton_angles.py |    |
 | 2.5節 | llg_0dim.py |    |
-| - | llg_1dim.py |    |
+| | llg_1dim.py |    |
 | **第3章 振動・波動** |
 | 3.4節 | differential.py |    |
-| - | kdv_solve_ivp.py |    |
-| - | kdv_anim_artist.py |    |
-| - | kdv_anim_func.py | 掲載なし |
-| - | kdv_plot.py | 掲載なし |
+| | kdv_solve_ivp.py |    |
+| | kdv_anim_artist.py |    |
+| | kdv_anim_func.py | 掲載なし |
+| | kdv_plot.py | 掲載なし |
 | 3.5節 | schr.py |    |
-| - | schr_wall.py |    |
-| - | schr_plot.py |    |
-| - | schr_anim.py | 掲載なし |
+| | schr_wall.py |    |
+| | schr_plot.py |    |
+| | schr_anim.py | 掲載なし |
 | 3.8節 | poisson.py |    |
-| - | poisson_plot.py |    |
-| - | poisson_circle.py |    |
-| - | poisson_circle_plot.py |    |
+| | poisson_plot.py |    |
+| | poisson_circle.py |    |
+| | poisson_circle_plot.py |    |
 | **第4章 量子力学** |
 | 4.3節 |  anharmonic.py |    |
 | 4.4節 |  spin.py |    |
-| - |  spin_diag.py |    |
+| |  spin_diag.py |    |
 | 4.5節 |  two_spins.py |    |
-| - |  three_spins.py |    |
-| - |  three_spins_chiral.py | 掲載なし |
+| |  three_spins.py |    |
+| |  three_spins_chiral.py | 掲載なし |
 | 4.6節 |  hubbard_1site.py |    |
-| - |  hubbard_2site.py |    |
-| - |  hubbard_2site_Udep.py | 掲載なし |
+| |  hubbard_2site.py |    |
+| |  hubbard_2site_Udep.py | 掲載なし |
 | **第4章 量子統計力学** |
 | 5.2節 |  shannon.py |    |
 | 5.4節 |  bec_integ.py |    |
 | 5.6節 |  bec.py |    |
-| - |  bec_t.py |    |
+| |  bec_t.py |    |
 | 5.7節 |  ising_mf.py |    |
-| - |  ising_mf_t.py |    |
+| |  ising_mf_t.py |    |
 | 5.8節 |  mc.py |    |
-| - |  mc_t.py |    |
-| - |  mc_plot_m.py |    |
+| |  mc_t.py |    |
+| |  mc_plot_m.py |    |
 
 <!--
 - 第2章 古典力学
