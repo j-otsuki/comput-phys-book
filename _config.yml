@@ -1,12 +1,8 @@
 title: 「Pythonによる計算物理」サポートページ
-author:
-  name: 大槻純也
-
+# logo: /assets/img/logo.png
+logo: 9784627170810.jpg
 description: >
   「Pythonによる計算物理」（森北出版）のサポートページ。
-
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal

@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: default
 ---
 
 このページは、書籍「**Pythonによる計算物理**」大槻純也 著（森北出版）のサポートページです。本に掲載されているソースコードや更新情報を提供します。
 出版社のページは[こちら](https://www.morikita.co.jp/books/mid/017081)。
 
 <!-- ![表紙](9784627170810.jpg) -->
-<img src="9784627170810.jpg" width=300px>
+<!-- <img src="9784627170810.jpg" width=300px> -->
 
 
 * TOC
