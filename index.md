@@ -14,7 +14,7 @@ layout: default
 
 ## 本について
 
-著者のWebサイト[「**pythonで学ぶ計算物理**」](https://www.physics.okayama-u.ac.jp/~otsuki/lecture/CompPhys2/index.html)を元に書籍化したものです。
+著者のWebサイト[「pythonで学ぶ計算物理」](https://www.physics.okayama-u.ac.jp/~otsuki/lecture/CompPhys2/index.html)を元に書籍化したものです。
 Webサイトとの主な違いは以下の通りです。
 
 - アルゴリズムの解説をしています。
@@ -31,7 +31,7 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 
 ### 一括ダウンロード
 
-[**GitHubリポジトリ**](https://github.com/j-otsuki/comput-phys-book)に全てのソースコード（このページのソースも含む）を置いてあります。
+[GitHubリポジトリ](https://github.com/j-otsuki/comput-phys-book)に全てのソースコード（このページのソースも含む）を置いてあります。
 緑色の「Code」ボタン → 「Download ZIP」でダウンロードできます。
 
 ### ファイル一覧
@@ -137,20 +137,20 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 
 ## 問い合わせ
 
-本の内容やソースコードに関する質問は、GitHubリポジトリの[**Issues**](https://github.com/j-otsuki/comput-phys-book/issues)に投稿してください。
+本の内容やソースコードに関する質問は、GitHubリポジトリの[Issues](https://github.com/j-otsuki/comput-phys-book/issues)に投稿してください。
 
 質問と回答は公開されます。質問と回答を共有することで、同じ疑問を持った人が、その回答を参照できるようになることが大きなメリットです。また、著者が同じ質問に繰り返し答えなくて済むため、この形式での質問にご協力お願いします。
 
 ひとりが疑問に思ったことは、他の人も疑問に思っています。みんなのためと思って、ぜひ質問お願いします。
 
 過去の投稿の閲覧：
-- [**Issues**](https://github.com/j-otsuki/comput-phys-book/issues)にアクセス。
+- [Issues](https://github.com/j-otsuki/comput-phys-book/issues)にアクセス。
 - 「Open」以下に、未解決の質問一覧（まだありません）
 - 「Closed」以下に、解決済みの質問一覧（まだありません）
 
 投稿の手順：
 - GitHubにアカウントを作成。
-- [**Issues**](https://github.com/j-otsuki/comput-phys-book/issues)にアクセス。
+- [Issues](https://github.com/j-otsuki/comput-phys-book/issues)にアクセス。
 - 緑色の「New issue」ボタンを押す。
 - 「Title」に見出しを、「Write」以下に本文を書く。「Preview」で確認する。
 - 緑色の「Submit new issue」ボタンを押して投稿。
