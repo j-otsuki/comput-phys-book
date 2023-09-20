@@ -43,7 +43,7 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | 掲載場所 | ファイル名 | 説明 |
 | -----   | ---------- | --- |
 | **第2章 古典力学** |
-| 2.3節 | [logistic_euler.py](/python/logistic_euler.py) | |
+| 2.3節 | [logistic_euler.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler.py) | |
 | | logistic_euler_mod.py | 一部掲載 |
 | | logistic_runge_kutta.py | 一部掲載 |
 | | [logistic_solve_ivp.py](/python/logistic_solve_ivp.py) |    |
