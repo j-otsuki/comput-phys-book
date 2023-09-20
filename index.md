@@ -40,8 +40,8 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | -----   | ---------- | --- |
 | **第2章 古典力学** |
 | 2.3節 | [logistic_euler.py](/python/logistic_euler.py) | |
-| | [logistic_euler_mod.py](/python/logistic_euler_mod.py) |    |
-| | [logistic_runge_kutta.py](/python/logistic_runge_kutta.py) |    |
+| | logistic_euler_mod.py | 一部掲載 |
+| | logistic_runge_kutta.py | 一部掲載 |
 | | [logistic_solve_ivp.py](/python/logistic_solve_ivp.py) |    |
 | 2.4節 | [newton.py](/python/newton.py) |    |
 | | [newton_angles.py](/python/newton_angles.py) |    |
@@ -60,14 +60,13 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | 3.8節 | [poisson.py](/python/poisson.py) |    |
 | | [poisson_plot.py](/python/poisson_plot.py) |    |
 | | [poisson_circle.py](/python/poisson_circle.py) |    |
-| | [poisson_circle_plot.py](/python/poisson_circle_plot.py) |    |
+| | poisson_circle_plot.py | 図3.14   |
 | **第4章 量子力学** |
 | 4.3節 | [anharmonic.py](/python/anharmonic.py) |    |
 | 4.4節 | [spin.py](/python/spin.py) |    |
 | | [spin_diag.py](/python/spin_diag.py) |    |
 | 4.5節 | [two_spins.py](/python/two_spins.py) |    |
 | | [three_spins.py](/python/three_spins.py) |    |
-| | three_spins_chiral.py | 掲載なし |
 | 4.6節 | [hubbard_1site.py](/python/hubbard_1site.py) |    |
 | | [hubbard_2site.py](/python/hubbard_2site.py) |    |
 | | hubbard_2site_Udep.py | 掲載なし |
