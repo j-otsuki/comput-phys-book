@@ -36,9 +36,7 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 
 ### 個別ダウンロード
 
-以下のファイル一覧からファイル名をクリックすると、個別にソースファイルをダウンロードできます。
-
-ダウンロードしないでファイルを閲覧したい場合は、[GitHubリポジトリ](https://github.com/j-otsuki/comput-phys-book)の「python」ディレクトリからファイルを選んでください。
+以下のファイル一覧からファイル名をクリックすると、GitHub上でファイルを閲覧できます。ダウンロードしたい場合には、そのページで右上のダウンロードボタン（下矢印のアイコン）をクリックしてください。
 
 | 掲載場所 | ファイル名 | 説明 |
 | -----   | ---------- | --- |
@@ -46,93 +44,44 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | 2.3節 | [logistic_euler.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler.py) | |
 | | logistic_euler_mod.py | 一部掲載 |
 | | logistic_runge_kutta.py | 一部掲載 |
-| | [logistic_solve_ivp.py](/python/logistic_solve_ivp.py) |    |
-| 2.4節 | [newton.py](/python/newton.py) |    |
-| | [newton_angles.py](/python/newton_angles.py) |    |
-| 2.5節 | [llg_0dim.py](/python/llg_0dim.py) |    |
-| | [llg_1dim.py](/python/llg_1dim.py) |    |
+| | [logistic_solve_ivp.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_solve_ivp.py) |    |
+| 2.4節 | [newton.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton.py) |    |
+| | [newton_angles.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton_angles.py) |    |
+| 2.5節 | [llg_0dim.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/llg_0dim.py) |    |
+| | [llg_1dim.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/llg_1dim.py) |    |
 | **第3章 振動・波動** |
-| 3.4節 | [differential.py](/python/differential.py) |    |
-| | [kdv_solve_ivp.py](/python/kdv_solve_ivp.py) |    |
-| | [kdv_anim_artist.py](/python/kdv_anim_artist.py) |    |
+| 3.4節 | [differential.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/differential.py) |    |
+| | [kdv_solve_ivp.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_solve_ivp.py) |    |
+| | [kdv_anim_artist.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_anim_artist.py) |    |
 | | kdv_anim_func.py | 掲載なし |
 | | kdv_plot.py | 掲載なし |
-| 3.5節 | [schr.py](/python/schr.py) |    |
-| | [schr_wall.py](/python/schr_wall.py) |    |
-| | [schr_plot.py](/python/schr_plot.py) |    |
+| 3.5節 | [schr.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/schr.py) |    |
+| | [schr_wall.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/schr_wall.py) |    |
+| | [schr_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/schr_plot.py) |    |
 | | schr_anim.py | 掲載なし |
-| 3.8節 | [poisson.py](/python/poisson.py) |    |
-| | [poisson_plot.py](/python/poisson_plot.py) |    |
-| | [poisson_circle.py](/python/poisson_circle.py) |    |
+| 3.8節 | [poisson.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson.py) |    |
+| | [poisson_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_plot.py) |    |
+| | [poisson_circle.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_circle.py) |    |
 | | poisson_circle_plot.py | 図3.14   |
 | **第4章 量子力学** |
-| 4.3節 | [anharmonic.py](/python/anharmonic.py) |    |
-| 4.4節 | [spin.py](/python/spin.py) |    |
-| | [spin_diag.py](/python/spin_diag.py) |    |
-| 4.5節 | [two_spins.py](/python/two_spins.py) |    |
-| | [three_spins.py](/python/three_spins.py) |    |
-| 4.6節 | [hubbard_1site.py](/python/hubbard_1site.py) |    |
-| | [hubbard_2site.py](/python/hubbard_2site.py) |    |
+| 4.3節 | [anharmonic.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/anharmonic.py) |    |
+| 4.4節 | [spin.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/spin.py) |    |
+| | [spin_diag.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/spin_diag.py) |    |
+| 4.5節 | [two_spins.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/two_spins.py) |    |
+| | [three_spins.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/three_spins.py) |    |
+| 4.6節 | [hubbard_1site.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/hubbard_1site.py) |    |
+| | [hubbard_2site.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/hubbard_2site.py) |    |
 | | hubbard_2site_Udep.py | 掲載なし |
 | **第4章 量子統計力学** |
-| 5.2節 | [shannon.py](/python/shannon.py) |    |
-| 5.4節 | [bec_integ.py](/python/bec_integ.py) |    |
-| 5.6節 | [bec.py](/python/bec.py) |    |
-| | [bec_t.py](/python/bec_t.py) |    |
-| 5.7節 | [ising_mf.py](/python/ising_mf.py) |    |
-| | [ising_mf_t.py](/python/ising_mf_t.py) |    |
-| 5.8節 | [mc.py](/python/mc.py) |    |
-| | [mc_t.py](/python/mc_t.py) |    |
-| | [mc_plot_m.py](/python/mc_plot_m.py) |    |
-
-<!--
-- 第2章 古典力学
-    - logistic_euler.py
-    - logistic_euler_mod.py
-    - logistic_runge_kutta.py
-    - logistic_solve_ivp.py
-    - newton.py
-    - newton_angles.py
-    - llg_0dim.py
-    - llg_1dim.py
-
-- 第3章 振動・波動
-    - differential.py
-    - kdv_solve_ivp.py
-    - kdv_anim_artist.py
-    - kdv_anim_func.py 掲載なし
-    - kdv_plot.py 掲載なし
-    - schr.py
-    - schr_wall.py
-    - schr_plot.py
-    - schr_anim.py 掲載なし
-    - poisson.py
-    - poisson_plot.py
-    - poisson_circle.py
-    - poisson_circle_plot.py 掲載なし
-
-- 第4章　量子力学
-    - anharmonic.py
-    - spin.py
-    - spin_diag.py
-    - two_spins.py
-    - three_spins.py
-    - three_spins_chiral.py 掲載なし
-    - hubbard_1site.py
-    - hubbard_2site.py
-    - hubbard_2site_Udep.py 掲載なし
-
-- 第5章　量子統計力学
-    - shannon.py
-    - bec_integ.py
-    - bec.py
-    - bec_t.py
-    - ising_mf.py
-    - ising_mf_t.py
-    - mc.py
-    - mc_t.py
-    - mc_plot_m.py
- -->
+| 5.2節 | [shannon.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/shannon.py) |    |
+| 5.4節 | [bec_integ.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/bec_integ.py) |    |
+| 5.6節 | [bec.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/bec.py) |    |
+| | [bec_t.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/bec_t.py) |    |
+| 5.7節 | [ising_mf.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/ising_mf.py) |    |
+| | [ising_mf_t.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/ising_mf_t.py) |    |
+| 5.8節 | [mc.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/mc.py) |    |
+| | [mc_t.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/mc_t.py) |    |
+| | [mc_plot_m.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/mc_plot_m.py) |    |
 
 ## 正誤表
 
