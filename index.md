@@ -29,6 +29,11 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 
 ## ダウンロード（出版後にダウンロード可）
 
+本に掲載してるPythonプログラムのソースコードを掲載します。
+なお、編集段階で行った修正（主にコメント部分）は、ファイルには反映されていない場合があるのでご了承ください。
+
+まとめてダウンロードしたい場合には「一括ダウンロード」、個別にダウンロードしたい場合またはファイルを閲覧したい場合には「個別ダウンロード」を参照してください。
+
 ### 一括ダウンロード
 
 [GitHubリポジトリ](https://github.com/j-otsuki/comput-phys-book)に全てのソースコード（このページのソースも含む）を置いてあります。
@@ -62,7 +67,7 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | 3.8節 | [poisson.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson.py) |    |
 | | [poisson_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_plot.py) |    |
 | | [poisson_circle.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_circle.py) |    |
-| | poisson_circle_plot.py | 図3.14   |
+| | poisson_circle_plot.py | 図3.14 |
 | **第4章 量子力学** |
 | 4.3節 | [anharmonic.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/anharmonic.py) |    |
 | 4.4節 | [spin.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/spin.py) |    |
