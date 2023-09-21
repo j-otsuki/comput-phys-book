@@ -32,6 +32,8 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 本に掲載してるPythonプログラムのソースコードを掲載します。
 なお、編集段階で行った修正（主にコメント部分）は、ファイルには反映されていない場合があるのでご了承ください。
 
+説明欄に「非掲載」と書かれているものは、本に掲載されていない関連プログラムです。プログラムの詳細は説明欄を見てください。
+
 まとめてダウンロードしたい場合には「一括ダウンロード」、個別にダウンロードしたい場合またはファイルを閲覧したい場合には「個別ダウンロード」を参照してください。
 
 ### 一括ダウンロード
@@ -47,8 +49,8 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | -----   | ---------- | --- |
 | **第2章 古典力学** |
 | 2.3節 | [logistic_euler.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler.py) | |
-| | [logistic_euler_mod.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler_mod.py) | logistic_euler.pyの``step_forward``関数を修正オイラー法に変更したもの（P.27） |
-| | [logistic_runge_kutta.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_runge_kutta.py) | logistic_euler.pyの``step_forward``関数を4次のルンゲ・クッタ法に変更したもの（P.27） |
+| | [logistic_euler_mod.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler_mod.py) | 非掲載。logistic_euler.pyの``step_forward``関数を修正オイラー法に変更したもの（P.27） |
+| | [logistic_runge_kutta.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_runge_kutta.py) | 非掲載。logistic_euler.pyの``step_forward``関数を4次のルンゲ・クッタ法に変更したもの（P.27） |
 | | [logistic_solve_ivp.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_solve_ivp.py) |    |
 | 2.4節 | [newton.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton.py) |    |
 | | [newton_angles.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton_angles.py) |    |
@@ -58,8 +60,8 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | 3.4節 | [differential.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/differential.py) |    |
 | | [kdv_solve_ivp.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_solve_ivp.py) |    |
 | | [kdv_anim_artist.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_anim_artist.py) |    |
-| | kdv_anim_func.py | 掲載なし |
-| | kdv_plot.py | 掲載なし |
+| | [kdv_anim_func.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_anim_func.py) | 非掲載。kdv_anim_artist.pyで``ArtistAnimation``クラスの代わりに``FuncAnimation``クラスを使用した場合。 |
+| | [kdv_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_plot.py) | 非掲載。アニメーションの全てのコマを連番の画像ファイルとして出力するプログラム。図3.5の作成に使用。 |
 | 3.5節 | [schr.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/schr.py) |    |
 | | [schr_wall.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/schr_wall.py) |    |
 | | [schr_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/schr_plot.py) |    |
