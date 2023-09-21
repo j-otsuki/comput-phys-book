@@ -47,7 +47,6 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 
 | 掲載場所 | ファイル名 | 説明 |
 | -----   | ---------- | --- |
-| **第2章 古典力学** |
 | 2.3節 | [logistic_euler.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler.py) | |
 | | [logistic_euler_mod.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler_mod.py) | 非掲載（P.27に一部掲載）。logistic_euler.pyの``step_forward``関数を修正オイラー法に変更したもの。 |
 | | [logistic_runge_kutta.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_runge_kutta.py) | 非掲載（P.27に一部掲載）。logistic_euler.pyの``step_forward``関数を4次のルンゲ・クッタ法に変更したもの。 |
@@ -56,7 +55,6 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | | [newton_angles.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton_angles.py) |    |
 | 2.5節 | [llg_0dim.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/llg_0dim.py) |    |
 | | [llg_1dim.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/llg_1dim.py) |    |
-| **第3章 振動・波動** |
 | 3.4節 | [differential.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/differential.py) |    |
 | | [kdv_solve_ivp.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_solve_ivp.py) |    |
 | | [kdv_anim_artist.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/kdv_anim_artist.py) |    |
@@ -70,7 +68,6 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | | [poisson_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_plot.py) |    |
 | | [poisson_circle.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_circle.py) |    |
 | | [poisson_circle_plot.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/poisson_circle_plot.py) | 非掲載。円状の導体がある場合のポアソン方程式の解を図示するプログラム。図3.14の作成に使用。 |
-| **第4章 量子力学** |
 | 4.3節 | [anharmonic.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/anharmonic.py) |    |
 | 4.4節 | [spin.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/spin.py) |    |
 | | [spin_diag.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/spin_diag.py) |    |
@@ -78,8 +75,7 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | | [three_spins.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/three_spins.py) |    |
 | 4.6節 | [hubbard_1site.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/hubbard_1site.py) |    |
 | | [hubbard_2site.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/hubbard_2site.py) |    |
-| | [hubbard_2site_Udep.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/hubbard_2site_Udep.py) | 非掲載。2サイトハバード模型のUを変化させて計算。図4.6の作成に使用。 |
-| **第5章 量子統計力学** |
+| | [hubbard_2site_Udep.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/hubbard_2site_Udep.py) | 非掲載。2サイトハバード模型のUを変化させて計算し、結果を図示するプログラム。図4.6の作成に使用。 |
 | 5.2節 | [shannon.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/shannon.py) |    |
 | 5.4節 | [bec_integ.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/bec_integ.py) |    |
 | 5.6節 | [bec.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/bec.py) |    |
