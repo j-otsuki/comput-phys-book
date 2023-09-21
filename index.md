@@ -47,8 +47,8 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 | -----   | ---------- | --- |
 | **第2章 古典力学** |
 | 2.3節 | [logistic_euler.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler.py) | |
-| | logistic_euler_mod.py | 一部掲載 |
-| | logistic_runge_kutta.py | 一部掲載 |
+| | [logistic_euler_mod.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_euler_mod.py) | logistic_euler.pyの``step_forward``関数を修正オイラー法に変更したもの（P.27） |
+| | [logistic_runge_kutta.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_runge_kutta.py) | logistic_euler.pyの``step_forward``関数を4次のルンゲ・クッタ法に変更したもの（P.27） |
 | | [logistic_solve_ivp.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/logistic_solve_ivp.py) |    |
 | 2.4節 | [newton.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton.py) |    |
 | | [newton_angles.py](https://github.com/j-otsuki/comput-phys-book/blob/main/python/newton_angles.py) |    |
