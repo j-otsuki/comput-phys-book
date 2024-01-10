@@ -88,7 +88,7 @@ Webサイトと本でソースコードに違いがある場合は、ほとん�
 
 ## 正誤表
 
-[PDFファイル（2024年1月10日時点）](corrections.pdf)
+[PDFファイル（2024年1月10日時点）](corrections/corrections.pdf)
 
 ## 問い合わせ
 
